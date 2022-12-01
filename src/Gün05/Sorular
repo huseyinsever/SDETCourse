@@ -1,0 +1,37 @@
+1-
+1) Bu siteye gidin. -> https://demo.applitools.com/
+
+2) Username kısmına "ttechno@gmail.com" girin.
+3) Password kısmına "techno123." girin.
+4) "Sign in" buttonunan tıklayınız.
+5) "Your nearest branch closes in: 30m 5s" yazısının göründüğünü doğrulayınız.
+
+----------------------------------------------------------------------------------------
+
+3-
+1) Bu siteye gidin. -> https://www.snapdeal.com/
+
+2) "teddy bear" aratın ve  Search butonuna tıklayın.
+3) Bu yazının göründüğünü doğrulayınız. -> (We've got 297 results for 'teddy bear')
+Not: Bu yazıdaki sayı değişiklik gösterebilir. Önemli olan cümle kalıbı.
+
+-----------------------------------------------------------------------------------------
+
+Bu websitesine gidiniz.  [https://testpages.herokuapp.com/styled/index.html]
+
+Calculate'e tıklayınız.
+
+         İlk input'a herhangi bir sayı giriniz.
+
+        İkinci input'a herhangi bir sayı giriniz.
+
+Calculate button'una tıklayınız.
+Sonucu alınız.
+Sonucu yazdırınız.
+
+SORULARI XPATH İLE YAPINIZ..........
+
+
+
+
+

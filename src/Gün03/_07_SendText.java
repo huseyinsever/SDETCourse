@@ -28,7 +28,8 @@ public class _07_SendText extends BaseStaticDriver {
              System.out.println("test failed");
 
 
-
+        BekleKapat();
 
         }
+
     }
